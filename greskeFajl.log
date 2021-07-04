@@ -1,0 +1,27 @@
+[16-Feb-2021 15:57:43 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:57:43 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:57:43 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 605
+[16-Feb-2021 15:57:43 Europe/Berlin] PHP Warning:  DBBroker::_prepareQuery(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:57:43 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from tim t join grad g on t.gradID=g.id)  in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:57:53 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:57:53 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:57:53 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 605
+[16-Feb-2021 15:57:53 Europe/Berlin] PHP Warning:  DBBroker::_prepareQuery(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:57:53 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from tim t join grad g on t.gradID=g.id)  in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:57:56 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:57:56 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:57:58 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:57:58 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:57:58 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 605
+[16-Feb-2021 15:57:58 Europe/Berlin] PHP Warning:  DBBroker::_prepareQuery(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:57:58 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from tabela m join tim t on m.timID=t.timID join grad g on t.gradID=g.id order by m.setovaDatih desc)  in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:58:01 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:58:01 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:58:01 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 605
+[16-Feb-2021 15:58:01 Europe/Berlin] PHP Warning:  DBBroker::_prepareQuery(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:58:01 Europe/Berlin] PHP Fatal error:  Problem preparing query (SELECT * FROM tim)  in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:58:05 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'odbojka' in C:\xampp\htdocs\Odbojka\dbbroker.php on line 74
+[16-Feb-2021 15:58:05 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 78
+[16-Feb-2021 15:58:05 Europe/Berlin] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 605
+[16-Feb-2021 15:58:05 Europe/Berlin] PHP Warning:  DBBroker::_prepareQuery(): Couldn't fetch mysqli in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
+[16-Feb-2021 15:58:05 Europe/Berlin] PHP Fatal error:  Problem preparing query (select * from tim t join grad g on t.gradID=g.id)  in C:\xampp\htdocs\Odbojka\dbbroker.php on line 606
