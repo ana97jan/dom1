@@ -9,7 +9,7 @@ class Mec
 	{
 		$this->db = $db;
 	}
-
+   // prva metoda
 	public function unesiMec()
 	{
 		if (!isset($_POST['domacin']) || !isset($_POST['gost']) || !isset($_POST['setDom']) || !isset($_POST['setGost'])) {
@@ -49,7 +49,7 @@ class Mec
 			return false;
 		}
 	}
-
+  // druga  metoda
 	public function izmeniNaziv()
 	{
 		if (!isset($_POST['tim']) || !isset($_POST['naziv'])) {
